@@ -7,7 +7,7 @@ ___
 | Format | HEX | RGB | HSL | HSB | Websafe | Description |
 |----------|----------|----------|----------|----------|----------|----------|
 | .json | :ballot_box_with_check:  | :ballot_box_with_check: | :black_square_button: | :black_square_button: | :black_square_button: |  |
-| .css | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |  |
+| .css | :ballot_box_with_check: | :ballot_box_with_check: | :black_square_button: | :black_square_button: | :black_square_button: |  |
 | .js | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |  |
 
 ## Other
@@ -20,6 +20,9 @@ ___
 Structure this repo
 ```
 Repo
+├ .css
+│   ├ HEX_Colors.css
+│   └ RGB_Colors.css
 ├ .inc
 │   └ Colors.inc
 ├ .json
